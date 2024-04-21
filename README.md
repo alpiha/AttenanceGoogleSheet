@@ -52,8 +52,8 @@ The first step is setting up the schedule for the swimmers' expected attendance 
       >> Days with multiple trainings are added separately, with a ***m*** or ***e*** indicator for *morning* or *evening* training. 
   4. Mark the Sports Academy swimmers with a checkmark in **column J**. This ensures that their attendances are shared within the secondary file.
   5. Insert the expected days for the attendees.   
-         > ***A*** for expected to attend. **N** for expected to NOT attend. 
+      > ***A*** for expected to attend. **N** for expected to NOT attend. 
   6. Click on the **Update SA Swimmers** button to verify which swimmers' attendance is shared in other documents. 
 
 The result will look somewhat like this: 
-  ![Project Image](images/swimmer_schedule_filled.png)
+ ![Project Image](images/swimmer_schedule_filled.png)
