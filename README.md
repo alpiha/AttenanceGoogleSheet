@@ -56,4 +56,4 @@ The first step is setting up the schedule for the swimmers' expected attendance 
   6. Click on the **Update SA Swimmers** button to verify which swimmers' attendance is shared in other documents. 
 
 The result will look somewhat like this: 
-  ![Project Image](images/swimmer_schedule_filled.png)
+ ![Project Image](images/swimmer_schedule_filled.png)
